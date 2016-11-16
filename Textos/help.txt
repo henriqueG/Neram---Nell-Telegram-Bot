@@ -1,0 +1,12 @@
+=== HELP ===
+At now, I can answer questions like:
+
+- Who is...
+- What is...
+
+Examples:
+
+Who is Al Pacino?
+What is apple?
+
+How can I help you?

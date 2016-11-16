@@ -1,0 +1,11 @@
+Hello there!!!
+
+I am a bot that projects the Knowledge of NELL!
+
+Who is NELL?
+
+NELL is an Artificial Intelligence that uses Machine Learning to read the web and take knowledge from it! So she (NELL) was born in 2010.
+
+And I am a bot that share this knowledge answering questions!!! I think I have a great responsibility! My developers are improving my ability to interpret questions constantly.
+
+Use the command /help to know what types of questions i can understand right now. Also use the command /about to see more about my developers.

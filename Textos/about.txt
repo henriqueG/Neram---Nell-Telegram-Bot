@@ -1,0 +1,10 @@
+chatNELL is a project developed by Machine Learning Lab. (MaLL) in Science Computing Department (DC) of Federal University of São Carlos (UFSCar), Brasil.
+
+Git development team:
+@henriqueG
+@matheusvervloet
+@wesleywilly
+
+See more at:
+Read the web: http://rtw.ml.cmu.edu
+DC-UFSCar: http://dc.ufscar.br
